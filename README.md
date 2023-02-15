@@ -1,1 +1,1 @@
-Репозиторий в котором я выполняю испытания от онлайн школы Хекслет
+The repository in which a bit of the Hexlet online school test was performed
